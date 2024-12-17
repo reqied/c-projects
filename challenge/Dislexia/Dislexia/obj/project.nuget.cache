@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "mM7p3L756XY=",
+  "success": true,
+  "projectFilePath": "D:\\work\\Dislexia\\Dislexia\\Dislexia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aekis\\.nuget\\packages\\hunspell.native\\1.2.5359.26130\\hunspell.native.1.2.5359.26130.nupkg.sha512",
+    "C:\\Users\\aekis\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
+    "C:\\Users\\aekis\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\microsoft.net.test.sdk.17.12.0.nupkg.sha512",
+    "C:\\Users\\aekis\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.12.0\\microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512",
+    "C:\\Users\\aekis\\.nuget\\packages\\microsoft.testplatform.testhost\\17.12.0\\microsoft.testplatform.testhost.17.12.0.nupkg.sha512",
+    "C:\\Users\\aekis\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\aekis\\.nuget\\packages\\nhunspell\\1.2.5554.16953\\nhunspell.1.2.5554.16953.nupkg.sha512",
+    "C:\\Users\\aekis\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\aekis\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NHunspell 1.2.5554.16953' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NHunspell",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

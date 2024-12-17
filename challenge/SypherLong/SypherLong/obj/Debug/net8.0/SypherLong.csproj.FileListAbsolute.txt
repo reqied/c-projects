@@ -1,0 +1,14 @@
+D:\work\SypherLong\SypherLong\bin\Debug\net8.0\SypherLong.exe
+D:\work\SypherLong\SypherLong\bin\Debug\net8.0\SypherLong.deps.json
+D:\work\SypherLong\SypherLong\bin\Debug\net8.0\SypherLong.runtimeconfig.json
+D:\work\SypherLong\SypherLong\bin\Debug\net8.0\SypherLong.dll
+D:\work\SypherLong\SypherLong\bin\Debug\net8.0\SypherLong.pdb
+D:\work\SypherLong\SypherLong\obj\Debug\net8.0\SypherLong.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\SypherLong\SypherLong\obj\Debug\net8.0\SypherLong.AssemblyInfoInputs.cache
+D:\work\SypherLong\SypherLong\obj\Debug\net8.0\SypherLong.AssemblyInfo.cs
+D:\work\SypherLong\SypherLong\obj\Debug\net8.0\SypherLong.csproj.CoreCompileInputs.cache
+D:\work\SypherLong\SypherLong\obj\Debug\net8.0\SypherLong.dll
+D:\work\SypherLong\SypherLong\obj\Debug\net8.0\refint\SypherLong.dll
+D:\work\SypherLong\SypherLong\obj\Debug\net8.0\SypherLong.pdb
+D:\work\SypherLong\SypherLong\obj\Debug\net8.0\SypherLong.genruntimeconfig.cache
+D:\work\SypherLong\SypherLong\obj\Debug\net8.0\ref\SypherLong.dll

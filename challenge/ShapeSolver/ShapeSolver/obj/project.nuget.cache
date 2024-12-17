@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zAWEmOgQyKk=",
+  "success": true,
+  "projectFilePath": "D:\\work\\ShapeSolver\\ShapeSolver\\ShapeSolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aekis\\.nuget\\packages\\accord\\3.8.2-alpha\\accord.3.8.2-alpha.nupkg.sha512",
+    "C:\\Users\\aekis\\.nuget\\packages\\accord.math\\3.8.2-alpha\\accord.math.3.8.2-alpha.nupkg.sha512"
+  ],
+  "logs": []
+}

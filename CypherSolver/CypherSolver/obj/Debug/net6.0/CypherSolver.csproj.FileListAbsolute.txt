@@ -1,0 +1,14 @@
+D:\work\CypherSolver\CypherSolver\bin\Debug\net6.0\CypherSolver.exe
+D:\work\CypherSolver\CypherSolver\bin\Debug\net6.0\CypherSolver.deps.json
+D:\work\CypherSolver\CypherSolver\bin\Debug\net6.0\CypherSolver.runtimeconfig.json
+D:\work\CypherSolver\CypherSolver\bin\Debug\net6.0\CypherSolver.dll
+D:\work\CypherSolver\CypherSolver\bin\Debug\net6.0\CypherSolver.pdb
+D:\work\CypherSolver\CypherSolver\obj\Debug\net6.0\CypherSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\CypherSolver\CypherSolver\obj\Debug\net6.0\CypherSolver.AssemblyInfoInputs.cache
+D:\work\CypherSolver\CypherSolver\obj\Debug\net6.0\CypherSolver.AssemblyInfo.cs
+D:\work\CypherSolver\CypherSolver\obj\Debug\net6.0\CypherSolver.csproj.CoreCompileInputs.cache
+D:\work\CypherSolver\CypherSolver\obj\Debug\net6.0\CypherSolver.dll
+D:\work\CypherSolver\CypherSolver\obj\Debug\net6.0\refint\CypherSolver.dll
+D:\work\CypherSolver\CypherSolver\obj\Debug\net6.0\CypherSolver.pdb
+D:\work\CypherSolver\CypherSolver\obj\Debug\net6.0\CypherSolver.genruntimeconfig.cache
+D:\work\CypherSolver\CypherSolver\obj\Debug\net6.0\ref\CypherSolver.dll

@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=97933dfc_002Dd080_002D4910_002D990b_002Dfafbe155f912/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AnglesToCoordinatesTask_Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4C83C757-2437-DCA6-A079-1AAF0DA34285::net6.0::Manipulation.AnglesToCoordinatesTask_Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4C83C757-2437-DCA6-A079-1AAF0DA34285::net6.0::Manipulation.TriangleTask_Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4C83C757-2437-DCA6-A079-1AAF0DA34285::net6.0::Manipulation.ManipulatorTask_Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

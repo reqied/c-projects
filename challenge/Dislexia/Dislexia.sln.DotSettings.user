@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AHunspell_002Ecs_002Fl_003AC_0021_003FUsers_003Faekis_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F337025d302ca4422af343bb036bbcf807c00_003F8a_003Fac578d3a_003FHunspell_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ASelectMany_002Ecs_002Fl_003AC_0021_003FUsers_003Faekis_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F197852119cb5d81aae9df72c4565dd7540f2f483a16f97b174a246b0125392b7_003FSelectMany_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f8a37b9b_002D5910_002D477c_002D86c0_002Dec3d3f3fdd29/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Clean" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB4F6668-E03F-4EB0-9274-C9520D97203D::net8.0::DislexiaTest.DislexiaTests.Clean&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB4F6668-E03F-4EB0-9274-C9520D97203D::net8.0::DislexiaTest.DislexiaTests.Clean("vocie trelbemd as she")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB4F6668-E03F-4EB0-9274-C9520D97203D::net8.0::DislexiaTest.DislexiaTests.Clean("to creep down a lnog")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB4F6668-E03F-4EB0-9274-C9520D97203D::net8.0::DislexiaTest.DislexiaTests.Clean("a dagorn would be esay")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB4F6668-E03F-4EB0-9274-C9520D97203D::net8.0::DislexiaTest.DislexiaTests.Clean("pull the door open siad")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB4F6668-E03F-4EB0-9274-C9520D97203D::net8.0::DislexiaTest.DislexiaTests.Clean("if i'm not picekd to")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB4F6668-E03F-4EB0-9274-C9520D97203D::net8.0::DislexiaTest.DislexiaTests.Clean("life he was hgurny he'd")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB4F6668-E03F-4EB0-9274-C9520D97203D::net8.0::DislexiaTest.DislexiaTests.Clean("a man's face he wore")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB4F6668-E03F-4EB0-9274-C9520D97203D::net8.0::DislexiaTest.DislexiaTests.Clean("bithrady harry gaonerd")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB4F6668-E03F-4EB0-9274-C9520D97203D::net8.0::DislexiaTest.DislexiaTests.Clean("dead in his tcraks the")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB4F6668-E03F-4EB0-9274-C9520D97203D::net8.0::DislexiaTest.DislexiaTests.Clean("hrary managed to grab")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB4F6668-E03F-4EB0-9274-C9520D97203D::net8.0::DislexiaTest.DislexiaTests.Clean("wlel here geos he put")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DB4F6668-E03F-4EB0-9274-C9520D97203D::net8.0::DislexiaTest.DislexiaTests.Clean("the gaol potss but he's")&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

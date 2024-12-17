@@ -1,0 +1,18 @@
+﻿<Window x:Class="ShapeWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Main Window" Height="400" Width="400">
+    <Grid>
+        <Canvas Name="DrawingCanvas" Margin="10" Background="White" />
+
+        <!-- Кнопки -->
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,20">
+            <Button Name="Button1" Content="ellipse" Margin="10" Click="Button1_Click"/>
+            <Button Name="Button2" Content="rectangle" Margin="10" Click="Button2_Click"/>
+            <Button Name="Button3" Content="triangle" Margin="10" Click="Button3_Click"/>
+        </StackPanel>
+
+        <!-- Метка для ответа -->
+        <Label Name="ResponseLabel" Content="" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,60"/>
+    </Grid>
+</Window>

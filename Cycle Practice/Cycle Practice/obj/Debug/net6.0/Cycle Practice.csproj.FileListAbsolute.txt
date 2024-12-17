@@ -1,0 +1,15 @@
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\bin\Debug\net6.0\Cycle Practice.exe
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\bin\Debug\net6.0\Cycle Practice.deps.json
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\bin\Debug\net6.0\Cycle Practice.runtimeconfig.json
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\bin\Debug\net6.0\Cycle Practice.dll
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\bin\Debug\net6.0\Cycle Practice.pdb
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\obj\Debug\net6.0\Cycle Practice.csproj.AssemblyReference.cache
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\obj\Debug\net6.0\Cycle Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\obj\Debug\net6.0\Cycle Practice.AssemblyInfoInputs.cache
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\obj\Debug\net6.0\Cycle Practice.AssemblyInfo.cs
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\obj\Debug\net6.0\Cycle Practice.csproj.CoreCompileInputs.cache
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\obj\Debug\net6.0\Cycle Practice.dll
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\obj\Debug\net6.0\refint\Cycle Practice.dll
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\obj\Debug\net6.0\Cycle Practice.pdb
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\obj\Debug\net6.0\Cycle Practice.genruntimeconfig.cache
+C:\Users\aekis\OneDrive\Документы\vs code project\Cycle Practice\Cycle Practice\obj\Debug\net6.0\ref\Cycle Practice.dll
