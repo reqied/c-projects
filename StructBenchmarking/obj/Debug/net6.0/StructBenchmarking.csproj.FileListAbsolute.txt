@@ -211,3 +211,4 @@ D:\work\StructBenchmarking\obj\Debug\net6.0\refint\StructBenchmarking.dll
 D:\work\StructBenchmarking\obj\Debug\net6.0\StructBenchmarking.pdb
 D:\work\StructBenchmarking\obj\Debug\net6.0\StructBenchmarking.genruntimeconfig.cache
 D:\work\StructBenchmarking\obj\Debug\net6.0\ref\StructBenchmarking.dll
+D:\work\StructBenchmarking\obj\Debug\net6.0\StructBenchmarking.sourcelink.json

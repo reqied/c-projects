@@ -1,3 +1,4 @@
+using System;
 using System.Diagnostics;
 using NUnit.Framework;
 
@@ -30,21 +31,21 @@ public class BenchmarkTests
 	}
 
 	[Test]
-	public void HasExtraWarmingCall([Values(10, 20, 30)] int repetitionsCount)
+	public void HasExtraWarmingCall([Values(10, 20, 30)] TimeSpan time)
 	{
 		var runner = new MockTask(firstCallDelay: 0, delay: 0);
 		var benchmark = new Benchmark();
-		benchmark.MeasureDurationInMs(runner, repetitionsCount);
-		Assert.AreEqual(repetitionsCount + 1, runner.CallsCount);
+		benchmark.MeasureDurationInMs(runner, time);
+		Assert.AreEqual(time.Add(new TimeSpan(1)), runner.CallsCount);
 	}
 
 	[TestCase(1, 10)]
 	[TestCase(5, 20)]
-	public void MeasureTimeExceptWarmingCall(int repetitionsCount, int delay)
+	public void MeasureTimeExceptWarmingCall(TimeSpan time, int delay)
 	{
 		var runner = new MockTask(firstCallDelay: 10 * delay, delay: delay);
 		var benchmark = new Benchmark();
-		var measure = benchmark.MeasureDurationInMs(runner, repetitionsCount);
+		var measure = benchmark.MeasureDurationInMs(runner, time);
 		Assert.AreEqual(delay, measure, delay / 4.0);
 	}
 }

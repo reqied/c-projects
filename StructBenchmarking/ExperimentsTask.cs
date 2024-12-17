@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace StructBenchmarking;
@@ -27,7 +28,7 @@ public class MethodCallTaskFactory : ITaskFactory
 public class Experiments
 {
     private static ChartData BuildChartData(
-        IBenchmark benchmark, int repetitionsCount, ITaskFactory taskFactory)
+        IBenchmark benchmark, TimeSpan time, ITaskFactory taskFactory)
     {
         var classesTimes = new List<ExperimentResult>();
         var structuresTimes = new List<ExperimentResult>();
@@ -36,8 +37,8 @@ public class Experiments
         {
             var classTask = taskFactory.CreateClassTask(fieldCount);
             var structTask = taskFactory.CreateStructTask(fieldCount);
-            var classTime = benchmark.MeasureDurationInMs(classTask, repetitionsCount);
-            var structTime = benchmark.MeasureDurationInMs(structTask, repetitionsCount);
+            var classTime = benchmark.MeasureDurationInMs(classTask, time);
+            var structTime = benchmark.MeasureDurationInMs(structTask, time);
             classesTimes.Add(new ExperimentResult(fieldCount, classTime));
             structuresTimes.Add(new ExperimentResult(fieldCount, structTime));
         }
@@ -51,14 +52,14 @@ public class Experiments
     }
 
     public static ChartData BuildChartDataForArrayCreation(
-        IBenchmark benchmark, int repetitionsCount)
+        IBenchmark benchmark, TimeSpan time)
     {
-        return BuildChartData(benchmark, repetitionsCount, new ArrayCreationTaskFactory());
+        return BuildChartData(benchmark, time, new ArrayCreationTaskFactory());
     }
 
     public static ChartData BuildChartDataForMethodCall(
-        IBenchmark benchmark, int repetitionsCount)
+        IBenchmark benchmark, TimeSpan time)
     {
-        return BuildChartData(benchmark, repetitionsCount, new MethodCallTaskFactory());
+        return BuildChartData(benchmark, time, new MethodCallTaskFactory());
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StructBenchmarking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66a27fc83b336a152548ab10518e8358cfc52660")]
 [assembly: System.Reflection.AssemblyProductAttribute("StructBenchmarking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StructBenchmarking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

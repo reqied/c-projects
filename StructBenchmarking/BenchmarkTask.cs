@@ -7,20 +7,22 @@ namespace StructBenchmarking;
 
 public class Benchmark : IBenchmark
 {
-    public double MeasureDurationInMs(ITask task, int repetitionCount)
+    public double MeasureDurationInMs(ITask task, TimeSpan time)
     {
         task.Run();
         GC.Collect();
         GC.WaitForPendingFinalizers();
-        
+
+        var counter = 0;
         var stopwatch = Stopwatch.StartNew();
-        for (var i = 0; i < repetitionCount; i++)
+        while (time >= stopwatch.Elapsed)
         {
             task.Run();
+            counter++;
         }
 
         stopwatch.Stop();
-        return (double) stopwatch.ElapsedMilliseconds / repetitionCount;
+        return (double) stopwatch.ElapsedMilliseconds / counter;
     }
 }
 
@@ -58,9 +60,9 @@ public class RealBenchmarkUsageSample
         var benchmark = new Benchmark();
         var stringConstructorTask = new StringConstructorTask();
         var stringBuilderTask = new StringBuilderTask();
-        const int repetitionCount = 10000;
-        var stringConstructorDuration = benchmark.MeasureDurationInMs(stringConstructorTask, repetitionCount);
-        var stringBuilderDuration = benchmark.MeasureDurationInMs(stringBuilderTask, repetitionCount);
+        var time = new TimeSpan(5);
+        var stringConstructorDuration = benchmark.MeasureDurationInMs(stringConstructorTask, time);
+        var stringBuilderDuration = benchmark.MeasureDurationInMs(stringBuilderTask, time);
         Assert.Less(stringConstructorDuration, stringBuilderDuration);
     }
 }
